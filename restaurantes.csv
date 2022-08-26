@@ -1,0 +1,169 @@
+nome,local,comida,valor
+Figueira Rubayat,São Paulo,"['Brasileira', 'Argentina', 'Grelhada', 'Churrascarias']",Muito Caro
+CT Boucherie,Rio de Janeiro,"['Francesa', 'Churrascarias', 'Opções vegetarianas']",Muito Caro
+Tordesilhas,São Paulo,"['Brasileira', 'Opções vegetarianas']",Caro
+Oro,Rio de Janeiro,"['Brasileira', 'Opções vegetarianas']",Muito Caro
+D.O.M.,São Paulo,"['Brasileira', 'Opções vegetarianas']",Muito Caro
+l'atelier du cuisinier,Rio de Janeiro,"['Francesa', 'Opções vegetarianas']",Caro
+Fogo de Chão Jardins,São Paulo,"['Brasileira', 'Churrascarias', 'Grelhada', 'Opções vegetarianas']",Muito Caro
+L'Etoile Restaurante,Rio de Janeiro,"['Francesa', 'Europeia', 'Internacional', 'Opções vegetarianas']",Muito Caro
+Restaurante Mestiço,São Paulo,"['Tailandesa', 'Opções vegetarianas']",Caro
+Rio Scenarium,Rio de Janeiro,"['Brasileira', 'Latino-americana', 'Sul Americana']",Caro
+Varanda Faria Lima,São Paulo,"['Grelhada', 'Churrascarias', 'Opções vegetarianas']",Muito Caro
+Julieta de Serpa,Rio de Janeiro,"['Francesa', 'Bar de Coquetéis', 'Italiana']",Caro
+Ají Com Mel,Campinas,"['Peruana', 'Opções vegetarianas']",Moderado
+Mocotó Bar e Restaurante,São Paulo,"['Brasileira', 'Opções vegetarianas']",Moderado
+Trattoria Boniatto,Gramado,['Italiana'],Moderado
+Astral Beach Food,Arraial do Cabo,"['Havaiana', 'Americana', 'Japonesa', 'Sushi', 'Comida Saudável', 'Opções vegetarianas']",Moderado
+Ryo Gastronomia,São Paulo,"['Japonesa', 'Sushi']",Muito Caro
+Bistrô Alquimia dos Sabores,Paraty,"['Contemporânea', 'Opções vegetarianas']",Moderado
+Casarão Adega Restô,Porto Seguro,"['Brasileira', 'Internacional', 'Frutos do mar', 'Opções vegetarianas']",Moderado
+Pocitos Pizza Metro,Canela,"['Pizza', 'Opções vegetarianas']",Moderado
+Sanctuarium - Atelier Gourmet,Salvador,"['Internacional', 'Mediterrânea', 'Contemporânea', 'Opções vegetarianas']",Muito Caro
+2858 Avenue Bistrô e Café,Campos do Jordão,"['Grelhada', 'Opções vegetarianas']",Moderado
+Tangará Jean-Georges,São Paulo,"['Brasileira', 'Opções vegetarianas']",Muito Caro
+Marine Restô,Rio de Janeiro,"['Internacional', 'Opções vegetarianas']",Moderado
+il Sordo Gelato,Aracaju,['Comida Saudável'],Moderado
+Ricardo Sushi,Ibirama,"['Sushi', 'Japonesa']",Caro
+Vinícius Bistrô,Pelotas,"['Frutos do mar', 'Opções vegetarianas']",Moderado
+Xica's Bistrô Restaurante,Praia do Forte,"['Brasileira', 'Grelhada', 'Comida Saudável', 'Frutos do mar', 'Opções vegetarianas']",Moderado
+Restaurante Ver-O-Açaí,Belém,"['Brasileira', 'Contemporânea', 'Opções vegetarianas']",Moderado
+Casa Due,Rio de Janeiro,"['Italiana', 'Deli', 'Opções vegetarianas']",Moderado
+Restaurante Segredos do Sabor Chef Edson,Balneário Camboriú,['Frutos do mar'],Caro
+Cantina Gaúcha,Cabo Frio,"['Italiana', 'Opções vegetarianas']",Moderado
+Entrepot Du Vin,Tiradentes,"['Bar de Vinhos', 'Bar de Cerveja']",Moderado
+Barbacoa Itaim,São Paulo,"['Churrascarias', 'Grelhada']",Muito Caro
+Giuseppe Mar,Rio de Janeiro,"['Frutos do mar', 'Brasileira']",Caro
+Zaki Sabor Arabe,Londrina,"['Mediterrânea', 'Oriente Médio', 'Opções vegetarianas']",Moderado
+Chang Thai Cozinha Asiática,Bento Gonçalves,"['Tailandesa', 'Contemporânea', 'Frutos do mar', 'Opções vegetarianas']",Muito Caro
+RYU restaurante,Rio de Janeiro,"['Coreana', 'Opções vegetarianas']",Moderado
+Restaurante Janga,Maceió,"['Frutos do mar', 'Brasileira', 'Opções vegetarianas']",Caro
+Sciani Gastronomia Italiana,Serra Negra,"['Italiana', 'Europeia', 'Opções vegetarianas']",Moderado
+Vaca Louca Café Vegetariano,Maringá,"['Brasileira', 'Sul Americana', 'Vegetariana']",Moderado
+Camarões Potiguar,Natal,"['Frutos do mar', 'Brasileira', 'Opções vegetarianas']",Caro
+Bangkok Garden Maringá,Maringá,"['Tailandesa', 'Opções vegetarianas']",Caro
+Casa Kanaloa,Cabo Frio,"['Tailandesa', 'Frutos do mar', 'Asiática']",Moderado
+Base Steakhouse,Guarulhos,"['Internacional', 'Churrascarias', 'Opções vegetarianas']",Moderado
+Casa Amici,Gramado,"['Europeia', 'Francesa', 'Internacional', 'Italiana']",Moderado
+Lilia,Rio de Janeiro,"['Brasileira', 'Opções vegetarianas']",Moderado
+Lua Cheia Bar & Cozinha,Itacaré,"['Brasileira', 'Frutos do mar', 'Bar de Vinhos', 'Bar de Coquetéis', 'Opções vegetarianas']",Caro
+Villa Itália,Pinhalzinho,"['Italiana', 'Opções vegetarianas']",Moderado
+A Baianeira,São Paulo,"['Brasileira', 'Opções vegetarianas']",Moderado
+Pizza Na Mão,São Paulo,"['Pizza', 'Italiana', 'Opções vegetarianas']",Caro
+Art-pão,Nova Iguaçu,"['Brasileira', 'Europeia', 'Sul Americana']",Moderado
+ADEGA BURGER & CO.,Curitiba,"['Brasileira', 'Sul Americana']",Moderado
+Neto's Café,Tatuí,"['Brasileira', 'Sul Americana', 'Opções vegetarianas']",Moderado
+Tanit Culinária Espanhola,São Paulo,"['Mediterrânea', 'Espanhola', 'Opções vegetarianas']",Caro
+Dojô Sushi Restaurante Japonês,Santos,['Japonesa'],Moderado
+50 Tons de Malte,Tiradentes,['Brasileira'],Moderado
+Baroque Culinária Européia Slow Food,Armação dos Búzios,"['Francesa', 'Alemã', 'Opções vegetarianas']",Muito Caro
+Juanita Restaurante,Bonito,"['Brasileira', 'Grelhada', 'Comida Saudável', 'Opções vegetarianas']",Moderado
+Vicolo Nostro,São Paulo,"['Italiana', 'Opções vegetarianas']",Muito Caro
+Chef M. Crippa,Bento Gonçalves,"['Italiana', 'Opções vegetarianas']",Caro
+La Tambouille,São Paulo,"['Italiana', 'Francesa', 'Opções vegetarianas']",Muito Caro
+La Brasserie de La Mer,Natal,"['Francesa', 'Europeia', 'Opções vegetarianas']",Muito Caro
+Mi Garba,Belo Horizonte,['Italiana'],Moderado
+Restaurante Aladym,Florianópolis,"['Frutos do mar', 'Opções vegetarianas']",Moderado
+Ohka,São Paulo,"['Japonesa', 'Sushi', 'Opções vegetarianas']",Muito Caro
+A Soberana Cozinha Caipira,Saint Francis Xavier,"['Brasileira', 'Opções vegetarianas']",Moderado
+Osteria Della Colombina,Bento Gonçalves,['Italiana'],Moderado
+Senhor Espresso Cafe,São José do Rio Pardo,"['Brasileira', 'Deli', 'Sul Americana']",Moderado
+Dalva e Dito,São Paulo,['Brasileira'],Caro
+Casa do Tempero,Penha,"['Grelhada', 'Frutos do mar']",Moderado
+Café Tirol,Piracicaba,"['Alemã', 'Italiana', 'Opções vegetarianas']",Moderado
+Due Cuochi Cucina,São Paulo,"['Italiana', 'Opções vegetarianas']",Caro
+Mistico Restaurant,Armação dos Búzios,"['Frutos do mar', 'Mediterrânea', 'Opções vegetarianas']",Muito Caro
+POA Parrilla,Porto Alegre,"['Churrascarias', 'Argentina', 'Uruguaia', 'Brasileira', 'Opções vegetarianas']",Caro
+Restaurante Colina Verde,Nova Petrópolis,['Alemã'],Moderado
+Garage Gourmet,Santos Dumont,"['Grelhada', 'Churrascarias', 'Brasileira', 'Sul Americana']",Moderado
+Camarões Restaurante,Natal,"['Frutos do mar', 'Brasileira', 'Portuguesa', 'Opções vegetarianas']",Caro
+Restaurante Chef Sandra Zen,Navegantes,"['Frutos do mar', 'Brasileira']",Moderado
+Restaurante Höppner,Gramado,['Alemã'],Muito Caro
+Café Sabor & Artew,Rio Pardo,"['Brasileira', 'Sul Americana']",Moderado
+Restaurante Banzeiro,São Paulo,['Brasileira'],Moderado
+Vue de la Vallée,Gramado,"['Francesa', 'Suíça', 'Europeia', 'Europa Central']",Muito Caro
+La Máfia Trattoria,Cascavel,"['Italiana', 'Opções vegetarianas']",Moderado
+Restaurante Cantaloup,São Paulo,"['Internacional', 'Contemporânea', 'Opções vegetarianas']",Muito Caro
+Cheesecake Dream,Americana,['Americana'],Moderado
+Komah Restaurante,São Paulo,"['Coreana', 'Opções vegetarianas']",Moderado
+Coco Bambu Shopping Recife: Restaurante e Frutos do Mar em Recife PE,Recife,"['Frutos do mar', 'Opções vegetarianas']",Caro
+Le Bife,São Paulo,"['Francesa', 'Churrascarias']",Caro
+Restaurante Origem,Salvador,"['Brasileira', 'Opções vegetarianas']",Muito Caro
+Cantina Província di Lucca,Atibaia,"['Italiana', 'Opções vegetarianas']",Moderado
+Crescente Gastronomia,Nova Friburgo,"['Europeia', 'Internacional', 'Mediterrânea', 'Opções vegetarianas']",Caro
+Restaurante Cantibello,Gramado,"['Italiana', 'Opções vegetarianas']",Moderado
+Camarões Midway Mall,Natal,"['Frutos do mar', 'Opções vegetarianas']",Caro
+Tertúlia Restaurante e Costelaria,Ribeirão Preto,"['Brasileira', 'Churrasco', 'Grelhada', 'Churrascarias']",Moderado
+Caldeira Restaurante Bar,Bento Gonçalves,['Brasileira'],Moderado
+Enoteca Serrana,Itatiaia,"['Bar de Vinhos', 'Opções vegetarianas']",Caro
+Tortas Wolf | Carambeí - PR,Carambeí,['Sul Americana'],Moderado
+DES Cucina,São Paulo,"['Italiana', 'Opções vegetarianas']",Caro
+Tamashii Ramen,São Paulo,"['Japonesa', 'Lámen', 'Opções vegetarianas']",Moderado
+Sorveteria Cremoso,Sertãozinho,['Sul Americana'],Moderado
+Adega Santiago,Rio de Janeiro,"['Espanhola', 'Europeia', 'Portuguesa', 'Bar de Vinhos', 'Opções vegetarianas']",Muito Caro
+Glacê Doceria e Cafeteria,Ilhéus,"['Brasileira', 'Sul Americana']",Moderado
+Empório Santo Antônio,Tiradentes,"['Brasileira', 'Frutos do mar']",Moderado
+Café du Centre,Gramado,['Francesa'],Caro
+Abbiamo Fatto Pizza Napoletana,Canela,"['Pizza', 'Italiana', 'Opções vegetarianas']",Moderado
+Coco Bambu Park Shopping: Restaurante e Frutos do Mar em Brasília DF,Brasília,"['Frutos do mar', 'Brasileira', 'Internacional', 'Sul Americana', 'Contemporânea']",Caro
+Casanova - (Gastronomia Portuguesa),Niterói,['Portuguesa'],Moderado
+Suika Sushi,Porto Alegre,"['Sushi', 'Japonesa', 'Opções vegetarianas']",Moderado
+Kauai Restaurante Havaiano Poke,São Paulo,"['Havaiana', 'Americana', 'Opções vegetarianas']",Moderado
+Secret Garden,Iracemápolis,"['Internacional', 'Italiana', 'Opções vegetarianas']",Moderado
+Coco Bambu Uberlândia,Uberlândia,"['Brasileira', 'Comida Saudável', 'Frutos do mar', 'Opções vegetarianas']",Caro
+Yallah,Campo Grande,"['Oriente Médio', 'Armena', 'Libanesa', 'Turca', 'Opções vegetarianas']",Moderado
+Kinoshita,São Paulo,"['Japonesa', 'Sushi', 'Opções vegetarianas']",Muito Caro
+Huto,São Paulo,"['Japonesa', 'Sushi']",Muito Caro
+IKI Restaurante Japonês,Campinas,"['Japonesa', 'Sushi', 'Opções vegetarianas']",Muito Caro
+Babel Restaurante,Maringá,"['Brasileira', 'Europeia', 'Contemporânea']",Muito Caro
+Le Mir Comida Arabe,Foz do Iguaçu,"['Libanesa', 'Oriente Médio', 'Opções vegetarianas']",Moderado
+Banqueta Bar,São Paulo,"['Bar de Coquetéis', 'Opções vegetarianas']",Moderado
+Don Giuseppe Pizzas São Chico,São Francisco de Paula,['Pizza'],Moderado
+Mity Sushi,Balneário Camboriú,"['Sushi', 'Japonesa', 'Opções vegetarianas']",Moderado
+Taberna Bistrô,Torres,"['Frutos do mar', 'Brasileira', 'Internacional', 'Italiana', 'Opções vegetarianas']",Moderado
+Kan Suke,São Paulo,"['Japonesa', 'Sushi', 'Opções vegetarianas']",Muito Caro
+Cannelé Bistrot,Canela,['Francesa'],Caro
+RESTAURANTE JAPONÊS MISU SUSHI BAR,Olímpia,"['Japonesa', 'Sushi']",Moderado
+Fuego Celeste Parrillada,São Paulo,"['Latino-americana', 'Churrascarias', 'Uruguaia', 'Churrasco', 'Grelhada']",Moderado
+Magô Restaurant,São Paulo,"['Sushi', 'Japonesa', 'Italiana']",Moderado
+Holy Meat - Steak Bar,Joinville,"['Grelhada', 'Brasileira', 'Churrasco', 'Churrascarias']",Moderado
+Verace Pizza Ourinhos,Ourinhos,"['Pizza', 'Opções vegetarianas']",Moderado
+Buteco do Fogão,Guaramirim,"['Americana', 'Brasileira', 'Sul Americana']",Moderado
+Vasto Restaurante,Brasília,"['Brasileira', 'Sushi', 'Frutos do mar', 'Churrascarias', 'Bar de Vinhos']",Muito Caro
+Marley's Tapas Bar e Restaurante,Itacaré,"['Espanhola', 'Opções vegetarianas']",Moderado
+Carolina Café + Doceria,Curitiba,"['Americana', 'Brasileira', 'Deli', 'Italiana', 'Sul Americana']",Moderado
+Executive Gastronomia,São José dos Pinhais,"['Brasileira', 'Bar de Coquetéis', 'Opções vegetarianas']",Moderado
+Jardim | Restaurante e Pizzaria,Ubatuba,"['Brasileira', 'Grelhada', 'Opções vegetarianas']",Moderado
+Duo Bistrô,Sorocaba,"['Brasileira', 'Fusão', 'Contemporânea', 'Opções vegetarianas']",Moderado
+Bistrô Dal Molin,Itajaí,"['Italiana', 'Francesa', 'Contemporânea', 'Opções vegetarianas']",Moderado
+Restaurante Quintanilha,Porto Alegre,"['Churrascarias', 'Opções vegetarianas']",Moderado
+Restaurante Quintanilha Gramado,Gramado,"['Brasileira', 'Mediterrânea', 'Opções vegetarianas']",Moderado
+HUB Food Art & Lounge,São Paulo,"['Brasileira', 'Espanhola', 'Frutos do mar', 'Opções vegetarianas']",Caro
+Geraldo Restaurante,Laguna,"['Frutos do mar', 'Brasileira', 'Opções vegetarianas']",Caro
+Sushi Nakombê,Lajeado,"['Sushi', 'Japonesa', 'Opções vegetarianas']",Moderado
+Coco Bambu São José Do Rio Preto,Sao Jose do Rio Preto,"['Brasileira', 'Internacional', 'Frutos do mar', 'Opções vegetarianas']",Caro
+Govinda Restaurante Vegetariano,Belém,"['Vegetariana', 'Indiana']",Moderado
+Cantinho do Peixe Pronto,Pelotas,['Frutos do mar'],Moderado
+Ponto GÊ,Brumadinho,['Vegetariana'],Moderado
+AP! Café Retrô,Joinville,['Opções vegetarianas'],Moderado
+O BRETÃO PUB,Sorocaba,"['Brasileira', 'Sul Americana', 'Opções vegetarianas']",Moderado
+Pizzaria Bel Mangio,Florianópolis,"['Pizza', 'Opções vegetarianas']",Moderado
+Galeto 183,Rio de Janeiro,['Brasileira'],Moderado
+Porto Pacuíba Hotel,Ilhabela,"['Internacional', 'Mediterrânea', 'Contemporânea', 'Frutos do mar', 'Opções vegetarianas']",Moderado
+Wãlakkhilya Kafé & Bistrô,Campinas,"['Brasileira', 'Indiana', 'Internacional', 'Mediterrânea', 'Sul Americana', 'Contemporânea', 'Frutos do mar', 'Opções vegetarianas']",Moderado
+Tropea Cantina e Armazém,Ouro Preto,"['Italiana', 'Opções vegetarianas']",Caro
+Sushi Caye,Rio Grande,"['Sushi', 'Japonesa']",Moderado
+Pizzeria Pastta D'oro,Carlos Barbosa,"['Pizza', 'Italiana']",Moderado
+Quinta do Sardão,Guararapes,"['Frutos do mar', 'Brasileira', 'Sul Americana']",Caro
+Restaurante Andréa,Caxias do Sul,['Italiana'],Moderado
+Cantina,Gramado,"['Italiana', 'Opções vegetarianas']",Moderado
+Essência,Ubatuba,"['Asiática', 'Birmanesa', 'Cambojana', 'Cantonês', 'Filipina', 'Indonésia', 'Malaia', 'Cingapureana', 'Tailandesa', 'Vietnamita', 'Opções vegetarianas']",Caro
+Bar Fáfá,São José do Rio Pardo,['Brasileira'],Moderado
+Falah Coffee & Store,Florianópolis,"['Oriente Médio', 'Opções vegetarianas']",Moderado
+Rockwheels Kustom Bar,São Paulo,['Bar de Coquetéis'],Moderado
+Daily Coffee Shop,Blumenau,['Opções vegetarianas'],Moderado
+Balcone Restô,Fortaleza,"['Pizza', 'Italiana', 'Frutos do mar', 'Opções vegetarianas']",Moderado
+Casa Vilharquide,Paraguaçu Paulista,"['Brasileira', 'Europeia', 'Alemã', 'Portuguesa', 'Espanhola', 'Opções vegetarianas']",Moderado
+Basílico Cozinha Artesanal,Amparo,['Italiana'],Moderado
+Dopo Lavoro Cantina Italiana,São Paulo,['Italiana'],Moderado
+Coco Bambu Osasco,Osasco,"['Frutos do mar', 'Brasileira', 'Contemporânea', 'Comida Saudável', 'Opções vegetarianas']",Caro
